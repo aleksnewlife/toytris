@@ -1,0 +1,22 @@
+<Solution>
+  <PropertyGroup Name="Toytris" Version="2.1.2.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Project Name="MainScene.csd" Type="Scene" />
+        <Image Name="MM24.png" />
+        <Image Name="sandbg3.png" />
+        <Image Name="Blue.png" />
+        <Image Name="Green.png" />
+        <Image Name="Red.png" />
+        <Image Name="Yelow.png" />
+        <PlistInfo Name="Boxes.csi" Type="Plist" />
+        <Image Name="Blue_al.png" />
+        <PlistInfo Name="Boxes_al.csi" Type="Plist" />
+        <Image Name="Green_al.png" />
+        <Image Name="Red_al.png" />
+        <Image Name="Yelow_al.png" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

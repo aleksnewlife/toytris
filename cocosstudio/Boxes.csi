@@ -1,0 +1,12 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Type="Plist" Name="Boxes" ID="f4d29dcd-0463-448e-90ab-35df043034aa" Version="2.1.2.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="0" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="Blue.png" />
+      <FilePathData Path="Green.png" />
+      <FilePathData Path="Red.png" />
+      <FilePathData Path="Yelow.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>
